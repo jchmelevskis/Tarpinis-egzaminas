@@ -1,0 +1,39 @@
+aside {
+    height: 350px;
+    background: #f8f9fa;
+  display: flex;
+  justify-content: center;
+  padding: 80px;
+  gap: 70px;
+  
+  }
+  
+  aside img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 100px;
+  }
+  
+  .text4 {
+    display: inline-block;
+    text-align: center;
+    align-self: center;
+    position: relative;
+    
+    }
+    
+   aside h1 {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    
+   aside p {
+      color: grey;
+    }
+  
+    aside h2 {
+    
+      position:absolute;
+      font-size: 1.5em;
+    }

@@ -1,0 +1,38 @@
+hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 200px;
+  }
+  
+   hero img {
+      width: 35px;
+      height: 35px;
+      padding: 5px;
+      box-sizing: border-box;
+      margin-right: 10px;
+      
+      
+  }
+  
+  hero p {
+    color: grey;
+    margin-top: 10px;
+      
+  }
+  
+  
+  
+  .social3 {
+  background: none;
+    color: #007bff;;
+    border: none;
+  }
+  
+  label:not(:last-child):after{
+    content: " · ";
+  }
+  
+  .social2{
+  margin: 0;
+  
+  }
